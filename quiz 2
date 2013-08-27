@@ -17,10 +17,10 @@
 		versions of Lorem Ipsum.</p>
 			<div>
 		<nav>
-	      <li>Home
-	      <li>about
-	      <li>Content
-	  <nav>
+	      </li>Home
+	      </li>about
+	      </li>Content
+	  </nav>
 	      <header> This is the header
 				</header>
 					<section> this is the section
@@ -30,4 +30,5 @@
 				<footer> This is the footer The end
 				</footer>
 			</div>
-		</body
+		</body>
+                </html>
